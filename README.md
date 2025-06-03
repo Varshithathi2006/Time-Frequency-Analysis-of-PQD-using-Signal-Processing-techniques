@@ -5,10 +5,10 @@ This project investigates Power Quality Disturbances (PQD) using various advance
 
 ## 👩‍💻 Team Members
 
-- **Varshitha Thilak Kumar** – CB.SC.U4AIE23258  
-- **Siri Sanjana Singareddy** – CB.SC.U4AIE23249  
-- **Shreya Arun** – CB.SC.U4AIE23253  
-- **Anagha Menon** – CB.SC.U4AIE23212  
+- **Varshitha Thilak Kumar** – varshitha.9a2019@gmail.com
+- **Siri Sanjana S** – sirisanjana.singareddy@gmail.com
+- **Shreya Arun** – shreyaarun005@gmail.com 
+- **Anagha Menon**
 
 ## 🧠 Introduction
 
